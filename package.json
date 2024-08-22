@@ -1,0 +1,14 @@
+{
+  "name": "@belly-lint/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "@monodon/rust": "2.0.0-beta.1"
+  },
+  "devDependencies": {
+    "@nx/workspace": "19.6.2",
+    "nx": "19.6.2"
+  }
+}
